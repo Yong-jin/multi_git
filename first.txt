@@ -5,3 +5,4 @@ B작업 mainview branch 작업
 B mainview 작업 마무리.
 Person Insert 작업 A 
 Person Update, delete, select 작업완료 A
+DB Connect 연결 추가.
